@@ -2,4 +2,5 @@ This repository contains a collection of training projects focused primarily on 
 Onepage CV - https://roadmap.sh/projects/single-page-cv
 Basic HTML website - https://roadmap.sh/projects/basic-html-website
 JavaScript Drum Kit - From JavaScript30
-CSS + JS Clock - - From JavaScript30
+CSS + JS Clock - From JavaScript30
+Playing with CSS Variables and JS - From JavaScript30
