@@ -1,0 +1,1 @@
+First project from JavaScript30 challenge.
