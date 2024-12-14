@@ -1,1 +1,1 @@
-First project from JavaScript30 challenge.
+The JavaScript Drum Kit project was created as part of the JavaScript 30 challenge. It is a simple project in which pressing a specific key triggers a corresponding drum sound. This allows for interactive drumming directly from the keyboard. 
