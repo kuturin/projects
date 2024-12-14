@@ -4,3 +4,4 @@ Basic HTML website - https://roadmap.sh/projects/basic-html-website
 JavaScript Drum Kit - From JavaScript30
 CSS + JS Clock - From JavaScript30
 Playing with CSS Variables and JS - From JavaScript30
+Personal Portfolio - https://roadmap.sh/projects/portfolio-website
