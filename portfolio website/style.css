@@ -1,0 +1,223 @@
+body {
+    border: solid 1px;
+    font-size: 1.2vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  /* Ustaw minimalny rozmiar czcionki dla ekranów mniejszych niż 768px */
+  
+  @media (max-width: 768px) {
+    body {
+      font-size: 12px; /* Można dostosować wartości według potrzeb */
+    }
+  }
+  
+  /* Ustaw minimalny rozmiar czcionki dla ekranów mniejszych niż 500px */
+  @media (max-width: 500px) {
+    body {
+      font-size: 10px; /* Minimalny rozmiar czcionki */
+    }
+  }
+
+  
+  
+  
+  
+h2 {
+    text-align: center;
+}
+
+nav {
+    float: inline-end ;
+    
+}
+
+nav a:link {
+    text-decoration: none;
+    border: 1px solid;
+    background-color: rgb(221, 166, 176);
+    color: white;
+}
+
+nav a:visited {
+    text-decoration: none;
+    border: 1px solid;
+    background-color: rgb(223, 184, 191);
+    color: white;
+}
+
+
+nav a:hover {
+    text-decoration: none;
+    border: 4px solid rgb(84, 158, 207);
+    background-color: rgb(221, 166, 176);
+    color: white;
+}
+
+nav a:active {
+    text-decoration: none;
+    border: 1px solid;
+    border: 4px solid rgb(84, 158, 207);
+    background-color: rgb(221, 166, 176);
+    color: white;
+}
+
+.title {
+    text-align: center;
+    border-bottom: double 3px;
+    line-height: 4rem;
+    padding: 5vw;
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+}
+
+  
+@media (max-width: 768px) { 
+    .grid-container { 
+        grid-template-columns: 100%;
+        
+    } 
+}
+  
+
+
+
+.grid-item {
+    border: 1px solid;
+    border-bottom-style: double;
+    text-align: justify;
+}
+
+.project {
+    border-bottom: 1px solid;
+    ;
+}
+
+div.grid-item a:link {
+    display: block;
+    text-decoration: none;
+    border: 1px solid;
+    background-color: rgb(221, 166, 176);
+    color: white;
+}
+
+div.grid-item a:visited {
+    display: block;
+    text-decoration: none;
+    border: 1px solid;
+    background-color: rgb(223, 184, 191);
+    color: white;
+}
+
+
+div.grid-item a:hover {
+    display: block;
+    text-decoration: none;
+    border: 4px solid rgb(84, 158, 207);
+    background-color: rgb(221, 166, 176);
+    color: white;
+}
+
+div.grid-item a:active {
+    display: block;
+    text-decoration: none;
+    border: 1px solid;
+    border: 4px solid rgb(84, 158, 207);
+    background-color: rgb(221, 166, 176);
+    color: white;
+}
+
+footer {
+    text-align: center;
+}
+
+div.projects a:link {
+    display: block;
+    text-decoration: none;
+    border: none;
+    background-color: rgb(221, 166, 176);
+    color: white;
+}
+
+div.projects a:visited {
+    display: block;
+    text-decoration: none;
+    border: none;
+    background-color: rgb(223, 184, 191);
+    color: white;
+}
+
+
+div.projects a:hover {
+    display: block;
+    text-decoration: none;
+    border: 4px solid rgb(84, 158, 207);
+    background-color: rgb(221, 166, 176);
+    color: white;
+}
+
+div.projects a:active {
+    display: block;
+    text-decoration: none;
+    border: 1px solid;
+    border: 4px solid rgb(84, 158, 207);
+    background-color: rgb(221, 166, 176);
+    color: white;
+}
+
+.contactForm{
+    padding-left: 30%;
+    padding-right: 30%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.submit {
+    background-color: rgb(221, 166, 176);
+    color: white;
+    border: 1px solid rgb(84, 158, 207);
+}
+
+.text {
+    width: 100%;
+}
+
+a.inlineLink:link {
+    display: inline-block;
+    text-decoration: none;
+    border: none;
+    background-color: rgb(221, 166, 176);
+    color: white;
+}
+
+a.inlineLink:visited {
+    display: inline-block;
+    text-decoration: none;
+    border: none;
+    background-color: rgb(223, 184, 191);
+    color: white;
+}
+
+
+a.inlineLink:hover {
+    display: inline-block;
+    text-decoration: none;
+    border: 4px solid rgb(84, 158, 207);
+    background-color: rgb(221, 166, 176);
+    color: white;
+    
+}
+
+a.inlineLink:active {
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid;
+    border: 4px solid rgb(84, 158, 207);
+    background-color: rgb(221, 166, 176);
+    color: white;
+    
+}
