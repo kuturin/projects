@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-This project is called Personal Portfolio and it is based on the instructions from [roadmap.sh](https://roadmap.sh/projects/portfolio-website). It enhances the Basic HTML Website project, which can be found [here](https://github.com/kuturin/projects/tree/master/Basic%20HTML%20website).
+This project is called Personal Portfolio and it is based on the instructions from https://roadmap.sh/projects/portfolio-website. It enhances the Basic HTML Website project, which can be found [here](https://github.com/kuturin/projects/tree/master/Basic%20HTML%20website).
 
 ## Project Description
 
