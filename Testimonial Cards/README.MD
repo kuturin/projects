@@ -1,22 +1,22 @@
 # Testimonial Cards Project
 
 ## Overview
-This project involves creating testimonial cards for a website using HTML and CSS[_{{{CITATION{{{_1{Create Testimonial Cards for a Website Using HTML and CSS - Roadmap](https://roadmap.sh/projects/testimonial-cards). Testimonials are quotes or statements from satisfied customers or users, often used on websites to build credibility and trust[_{{{CITATION{{{_1{Create Testimonial Cards for a Website Using HTML and CSS - Roadmap](https://roadmap.sh/projects/testimonial-cards).
+This project involves creating testimonial cards for a website using HTML and CSS. Testimonials are quotes or statements from satisfied customers or users, often used on websites to build credibility and trust. This is project from
 
 ## Goals
-- Learn about positioning and layout in CSS[_{{{CITATION{{{_1{Create Testimonial Cards for a Website Using HTML and CSS - Roadmap](https://roadmap.sh/projects/testimonial-cards).
-- Understand how to create layouts using HTML and CSS[_{{{CITATION{{{_1{Create Testimonial Cards for a Website Using HTML and CSS - Roadmap](https://roadmap.sh/projects/testimonial-cards).
-- Build a simple testimonial card component[_{{{CITATION{{{_1{Create Testimonial Cards for a Website Using HTML and CSS - Roadmap](https://roadmap.sh/projects/testimonial-cards).
+- Learn about positioning and layout in CSS.
+- Understand how to create layouts using HTML and CSS.
+- Build a simple testimonial card component.
 
 ## Instructions
 1. **Setup**: Clone the repository to your local machine.
-2. **HTML Structure**: Create the HTML structure for the testimonial cards[_{{{CITATION{{{_1{Create Testimonial Cards for a Website Using HTML and CSS - Roadmap](https://roadmap.sh/projects/testimonial-cards).
-3. **CSS Styling**: Style the testimonial cards using CSS[_{{{CITATION{{{_1{Create Testimonial Cards for a Website Using HTML and CSS - Roadmap](https://roadmap.sh/projects/testimonial-cards).
-4. **Customization**: Customize the content and images for the testimonials[_{{{CITATION{{{_1{Create Testimonial Cards for a Website Using HTML and CSS - Roadmap](https://roadmap.sh/projects/testimonial-cards).
-5. **Submission**: Submit your solution and get feedback from the community[_{{{CITATION{{{_1{Create Testimonial Cards for a Website Using HTML and CSS - Roadmap](https://roadmap.sh/projects/testimonial-cards).
+2. **HTML Structure**: Create the HTML structure for the testimonial cards.
+3. **CSS Styling**: Style the testimonial cards using CSS.
+4. **Customization**: Customize the content and images for the testimonials.
+5. **Submission**: Submit your solution and get feedback from the community.
 
 ## Resources
-- [Roadmap.sh Project Page](https://roadmap.sh/projects/testimonial-cards)[_{{{CITATION{{{_1{Create Testimonial Cards for a Website Using HTML and CSS - Roadmap](https://roadmap.sh/projects/testimonial-cards)
+- [Roadmap.sh Project Page](https://roadmap.sh/projects/testimonial-cards)
 
 ## Contributing
 We welcome contributions from the community! If you find any issues or have suggestions for improvement, please feel free to submit a pull request or open an issue.
