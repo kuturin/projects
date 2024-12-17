@@ -1,0 +1,122 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+}
+
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.cardContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    height: 33%;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card1, .card2 {
+    width: 48%;
+}
+
+.card3 {
+    display: flex;
+    gap: 20px;
+}
+
+
+
+.card4 {
+    align-items: center;
+}
+
+.contet4 {
+    text-align: center;
+    padding: 10% 10% 3%;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+    align-items: center;
+}
+
+.centerPerson {
+    text-align: center;
+}
+
+.imagecircle {
+    clip-path: inset(10% round 50%);
+    width: 60px;
+    height: auto;
+    object-fit: cover;
+}
+
+.womanImage {
+    clip-path: inset(10% round 30px);
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.content1 {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.content2 {
+    padding: 10px;
+}
+
+.name3 {
+    font-size: 1.6rem;
+}
+
+.stars {
+    color: gold;
+    padding-bottom: 10px;
+}
+
+.job {
+    color: gray;
+    font-size: 0.8rem;
+    padding: 10px 0;
+}
+
+.card2, .card4 {
+    border: solid 1px;
+    border-radius: 10px;
+}
+
+.blur {
+    opacity: 0.5;
+    width: 40px;
+}
+
+.arrow {
+    font-weight: bolder;
+    font-size: 2rem;
+}
+
+.job1 {
+    font-size: 0.8rem;
+}
+
+.personImage {
+    float: left;
+    width: 4rem;
+    ;
+}
+
+.name1 {
+    padding-top: 1rem;
+}

@@ -8,3 +8,4 @@ This repository contains a collection of training projects focused primarily on 
 - Playing with CSS Variables and JS - From JavaScript30
 - Personal Portfolio - https://roadmap.sh/projects/portfolio-website
 - Changelog Component - https://roadmap.sh/projects/changelog-component
+- Testimonial Cards - https://roadmap.sh/projects/testimonial-cards
