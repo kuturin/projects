@@ -13,3 +13,4 @@ This repository contains a collection of training projects focused primarily on 
 - Flex Panels Image Gallery - from JavaScript30
 - Ajax type Ahead - from JavaScript30
 - Array Cardio 2 - From Javascript30
+- Fun with HTML5 Canvas - from JavaScript30
