@@ -11,3 +11,4 @@ This repository contains a collection of training projects focused primarily on 
 - Testimonial Cards - https://roadmap.sh/projects/testimonial-cards
 - Array Cardio 1 - From Javascript30
 - Flex Panels Image Gallery - from JavaScript30
+- Ajax type Ahead - from JavaScript30
