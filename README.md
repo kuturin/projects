@@ -14,3 +14,4 @@ This repository contains a collection of training projects focused primarily on 
 - Ajax type Ahead - from JavaScript30
 - Array Cardio 2 - From Javascript30
 - Fun with HTML5 Canvas - from JavaScript30
+- 14 Must Know Dev Tools Tricks - from JavaScript30
