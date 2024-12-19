@@ -9,3 +9,4 @@ This repository contains a collection of training projects focused primarily on 
 - Personal Portfolio - https://roadmap.sh/projects/portfolio-website
 - Changelog Component - https://roadmap.sh/projects/changelog-component
 - Testimonial Cards - https://roadmap.sh/projects/testimonial-cards
+- Array Cardio 1 - From Javascript30
