@@ -15,3 +15,4 @@ This repository contains a collection of training projects focused primarily on 
 - Array Cardio 2 - From Javascript30
 - Fun with HTML5 Canvas - from JavaScript30
 - 14 Must Know Dev Tools Tricks - from JavaScript30
+- Datepicker UI - https://roadmap.sh/projects/datepicker-ui
