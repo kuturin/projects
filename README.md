@@ -17,3 +17,4 @@ This repository contains a collection of training projects focused primarily on 
 - 14 Must Know Dev Tools Tricks - from JavaScript30
 - Datepicker UI - https://roadmap.sh/projects/datepicker-ui
 - Hold Shift to Check Multiple Checkboxes - from JavaScript30
+- Single tabs - https://roadmap.sh/projects/simple-tabs
