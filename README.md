@@ -16,4 +16,4 @@ This repository contains a collection of training projects focused primarily on 
 - Fun with HTML5 Canvas - from JavaScript30
 - 14 Must Know Dev Tools Tricks - from JavaScript30
 - Datepicker UI - https://roadmap.sh/projects/datepicker-ui
-- Hold Shift to Check Multiple Checkboxes - https://github.com/kuturin/projects/tree/master/Hold%20Shift%20to%20Check%20Multiple%20Checkboxes
+- Hold Shift to Check Multiple Checkboxes - from JavaScript30
