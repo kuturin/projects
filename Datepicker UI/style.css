@@ -1,0 +1,102 @@
+.calendar {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.calendar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #f5f5f5;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.calendar-input {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: hsl(0, 0%, 100%);
+    border-bottom: 1px solid #e0e0e0;
+    font-size: 1.2em;
+    width: 60%;
+    
+    
+}
+
+.calendar-btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: hsl(0, 0%, 100%);
+    border-bottom: 1px solid #e0e0e0;
+    font-size: 1.2em;
+    
+}
+.calendar-input:hover, .calendar-btn:hover {
+    background-color: #f5f5f5;
+}
+
+.prev-btn, .next-btn {
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+
+
+}
+
+.calendar-body {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 20px;
+}
+
+.prev-btn:hover, .next-btn:hover {
+    background-color: #f5f5f5;
+}
+
+
+
+.month {
+    font-size: 1.2em;
+    font-weight: 600;
+    justify-content: space-around;
+    display: flex;
+}
+
+.daynames, .week1, .week2, .week3, .week4, .week5 {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+    border-bottom: 1px solid #e0e0e0;
+    
+}
+
+.day {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    cursor: pointer;
+    
+}
+
+.day:hover {
+    background-color: #dda6b0;
+}

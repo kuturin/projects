@@ -1,0 +1,1 @@
+Some array exercises from the JavaScript30 challenge

@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; 
+    border: solid 3px;
+    border-radius: 10%;
+    margin: 20px 20%;
+    color: #5bcffb;
+    background-color: white;
+
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #f5abb8;
+    font-size: 1rem;
+    margin-bottom: 2rem;
+}
+
+.changelog-container {
+    text-align: center;
+    margin: 2vw 0;
+}
+
+.timeline {
+    position: relative;
+    margin: 20px 0;
+    padding: 0;
+    
+}
+
+.timeline-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    width: 100%;
+    padding-right: 20px;
+    text-align: left;
+    position: relative; /* Dodanie pozycji względnej */
+}
+
+.timeline-date {
+    color: #f5abb8;
+    font-size: 0.9rem;
+    margin-right: 10px;
+    position: relative; /* Potrzebne dla pseudo-elementu */
+    padding-right: 10px;
+}
+
+.timeline-date:after {
+    content: '';
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    right: -10px;
+    background-color: black;
+    border-radius: 50%;
+    top: 2px;
+  }
+
+  .timeline-date::before { 
+    content: ''; 
+    position: absolute; 
+    width: 2px; 
+    height: 65px;
+    right: -4px; 
+    background-color: black; 
+    top: -25px; 
+}
+
+.timeline-content {
+    font-size: 1rem;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    display: inline-block;
+}
+
+.button {
+    padding-bottom: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    background-color: #f5abb8;
+    color: #5bcffb;
+    border-radius: 8px;
+    margin-top: 20px;
+    height: 40px;
+    width: 300px;
+    align-content: center;
+}
+
+.button:hover {
+    border-color: #5bcffb; 
+    border: solid 3px;
+  }

@@ -1,0 +1,1 @@
+The CSS + JS Clock is another project as part of the JavaScript 30 challenge. It is a simple, functional clock created using JavaScript and CSS. The project showcases how to build a real-time clock that dynamically updates the time.
