@@ -19,3 +19,4 @@ This repository contains a collection of training projects focused primarily on 
 - Hold Shift to Check Multiple Checkboxes - from JavaScript30
 - Single tabs - https://roadmap.sh/projects/simple-tabs
 - Cookie Consent - https://roadmap.sh/projects/cookie-consent
+- Restricted Teaxtarea - https://roadmap.sh/projects/restricted-textarea
