@@ -20,3 +20,4 @@ This repository contains a collection of training projects focused primarily on 
 - Single tabs - https://roadmap.sh/projects/simple-tabs
 - Cookie Consent - https://roadmap.sh/projects/cookie-consent
 - Restricted Teaxtarea - https://roadmap.sh/projects/restricted-textarea
+- Custom HTML5 Video Player - from JavaScript30
