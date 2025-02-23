@@ -21,3 +21,4 @@ This repository contains a collection of training projects focused primarily on 
 - Cookie Consent - https://roadmap.sh/projects/cookie-consent
 - Restricted Teaxtarea - https://roadmap.sh/projects/restricted-textarea
 - Custom HTML5 Video Player - from JavaScript30
+- Key Sequence Detection - from JavaScript30
