@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 5px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid black;
+    min-height: 500px;
+    max-width: 600px;
+}
+#app {
+    padding: 5% 10%;
+}
+#clear-all {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;;
+}
+#clear-all:hover {
+    background-color: #d32f2f;
+}
+li {
+    list-style-type: none;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: space-between;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+.checkbox {
+    width: 20px;
+    height: 20px;
+    appearance: none;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    min-width: 20px;
+    min-height: 20px;
+}
+.checkbox:checked {
+    background-color: grey;
+    border-color: grey;
+}
+#task-input {
+    position: relative; /* Ustawia kontener jako odniesienie dla pozycji absolutnej */
+    width: 100%;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+#task-input input {
+    width: 100%;
+    padding: 10px 50px 10px 10px; /* Dodaj miejsce na przycisk po prawej stronie */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#task-input button {
+    position: absolute; /* Ustawia przycisk wewnątrz pola */
+    top: 50%; /* Wyrównuje przycisk w pionie */
+    right: 10px; /* Ustawia przycisk po prawej stronie */
+    transform: translateY(-50%); /* Centruje przycisk w pionie */
+    padding: 5px 15px;
+    border: none;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#task-input button:hover {
+    background-color: #0056b3;
+}

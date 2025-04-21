@@ -23,3 +23,4 @@ This repository contains a collection of training projects focused primarily on 
 - Custom HTML5 Video Player - from JavaScript30
 - Key Sequence Detection - from JavaScript30
 - Slide In on Scroll - from JavaScript30
+- Task Tracker - https://roadmap.sh/projects/task-tracker-js
