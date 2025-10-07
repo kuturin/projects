@@ -11,8 +11,8 @@
         <h1>Unit Converter</h1>
         <div class="length">
             <h4>Length</h2>
-            <input type="number" id="inputValue" placeholder="Enter length">
-            <select id="inputUnit">
+            <input type="number" id="unitLengthInput" placeholder="Enter length">
+            <select id="lengthUnit">
                 <option value="mm">Millimeter</option>
                 <option value="cm">Centimeter</option>
                 <option value="m">Meter</option>
@@ -22,34 +22,58 @@
                 <option value="yd">Yard</option>
                 <option value="mi">Mile</option>
             </select>
-            <br>
+            <p>Choose unit of your output
+            <select id="lengthOutputUnit">
+                <option value="mm">Millimeter</option>
+                <option value="cm">Centimeter</option>
+                <option value="m">Meter</option>
+                <option value="km">Kilometer</option>
+                <option value="in">Inch</option>
+                <option value="ft">Foot</option>
+                <option value="yd">Yard</option>
+                <option value="mi">Mile</option>
+            </select>
+            </p>
             <button id="convertLength">Convert Length</button>
             <div id="lengthResult">test</div>
         </div>
         <div class="weight">
             <h4>Weight</h4>
             <input type="number" id="weightInputValue" placeholder="Enter weight">
-            <select id="weightInputUnit">
+            <select id="weightUnit">
                 <option value="mg">Milligram</option>
                 <option value="g">Gram</option>
                 <option value="kg">Kilogram</option>
-                <option value="t">Ton</option>
                 <option value="oz">Ounce</option>
                 <option value="lb">Pound</option>
             </select>
-            <br>
+            <p>Choose unit of your output
+            <select id="weightOutputUnit">
+                <option value="mg">Milligram</option>
+                <option value="g">Gram</option>
+                <option value="kg">Kilogram</option>
+                <option value="oz">Ounce</option>
+                <option value="lb">Pound</option>
+            </select>
+            </p>
             <button id="convertWeight">Convert Weight</button>
             <div id="weightResult"></div>
         </div>
         <div class="temperature">
             <h4>Temperature</h4>
             <input type="number" id="tempInputValue" placeholder="Enter temperature">
-            <select id="tempInputUnit">
+            <select id="tempUnit">
                 <option value="C">Celsius</option>
                 <option value="F">Fahrenheit</option>
                 <option value="K">Kelvin</option>
             </select>
-            <br>
+            <p>Choose unit of your output
+            <select id="tempOutputUnit">
+                <option value="C">Celsius</option>
+                <option value="F">Fahrenheit</option>
+                <option value="K">Kelvin</option>
+            </select>
+            </p>
             <button id="convertTemp">Convert Temperature</button>
             <div id="tempResult"></div>
         </div>
