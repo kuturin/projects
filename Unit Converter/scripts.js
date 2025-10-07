@@ -1,4 +1,5 @@
 let input;
+let unitInput;
 let lengthUnit;
 let milimetter = "mm";
 let centimetter = "cm";
